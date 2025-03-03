@@ -1,0 +1,20 @@
+#比比
+DOMAIN, beebi.org, Emby  
+#鹅服
+DOMAIN, cavps.eu.org, Emby  
+#西瓜
+DOMAIN, daigua.j8.work, Emby  
+#hka
+DOMAIN, hka-emby3.aliz.work, Emby  
+#垃圾服
+ip-cidr, 45.142.176.135/32, Emby  
+#惊蛰
+DOMAIN, emby.jingzhe.pro, Emby  
+#Nanflix
+DOMAIN, us.nanflix.net, Emby  
+#server
+DOMAIN, media.nijigem.by, Emby  
+#琴鸟
+DOMAIN, cdn.lyrebirdemby.com, Emby  
+#鸽巢
+DOMAIN, mediacf.doven.tv, Emby  
