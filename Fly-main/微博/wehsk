@@ -9,6 +9,7 @@ DOMAIN, hka-emby3.aliz.work, Emby
 #垃圾服
 ip-cidr, 45.142.176.135/32, Emby  
 #惊蛰
+DOMAIN, stream2.jingzhe.pro, Emby
 DOMAIN, emby.jingzhe.pro, Emby  
 #Nanflix
 DOMAIN, us.nanflix.net, Emby  
