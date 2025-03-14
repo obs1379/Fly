@@ -21,7 +21,7 @@ cron "14 10 * * *" script-path=https://raw.githubusercontent.com/Sliverkiss/Good
 http-request ^https:\/\/yuchen.tonghuaios.com\/users\?.+ script-path=https://raw.githubusercontent.com/Sliverkiss/GoodNight/master/Script/yuchenios.js, timeout=10, tag=ios游戏迷获取token
 
 [MITM]
-hostname =yuchen.tonghuaios.com
+hostname =yc.yuchengyouxi.com
 
 ====================================
 ⚠️【免责声明】
